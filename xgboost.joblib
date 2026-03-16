@@ -1,5 +1,0 @@
-# .streamlit/secrets.toml
-# Add your Anthropic API key here for Streamlit Cloud deployment
-# DO NOT commit this file to GitHub — add to .gitignore
-
-ANTHROPIC_API_KEY = "sk-ant-your-key-here"
